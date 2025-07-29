@@ -1,4 +1,4 @@
-To create an OpenThread network together with the OpenThread Border Router Home Assistant addon, you can use esp32c6.
+ To create an OpenThread network together with the OpenThread Border Router Home Assistant addon, you can use esp32c6.
 
 You will need:
 - esp32c6 - https://s.click.aliexpress.com/e/_olAqroU
@@ -14,6 +14,6 @@ Firmware for the Border router for esp3s3 - esp_ot_br.bin
 
 
 
-https://youtu.be/ld472mKoIRA
+https://youtu.be/ld472mKoIRA   Ukrainian and Enghlish audio track.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ld472mKoIRA/0.jpg)](https://youtu.be/ld472mKoIRA "Make Openthread border router wich esp32c6")
