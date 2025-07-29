@@ -11,3 +11,9 @@ OpenThread Border Router can also be created using esp32s3 and esp32c6.
 esp32c6 as Radio Coprocessor.
 esp32s3 as Border Router.
 Firmware for the Border router for esp3s3 - esp_ot_br.bin
+
+
+
+https://youtu.be/ld472mKoIRA
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ld472mKoIRA/0.jpg)](https://youtu.be/ld472mKoIRA "Make Openthread border router wich esp32c6")
